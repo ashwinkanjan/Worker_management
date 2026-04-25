@@ -45,15 +45,6 @@ LCD displays:
 
 https://wokwi.com/projects/462292575966362625
 
-##  Demo
-Simulation screenshot
-<img width="800" height="600" alt="Screenshot 2026-04-25 221243" src="https://github.com/user-attachments/assets/782c06e1-354f-4788-bd6f-db6ea537210c" />
-
-Working prototype
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a238c6cb-c632-4944-bce7-11eae08f4e85" />
-
-
-
 ##  Future Improvements
 
 * Data logging system
